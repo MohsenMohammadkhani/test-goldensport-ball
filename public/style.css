@@ -30,3 +30,7 @@ body {
   align-items: center;
   color: white;
 }
+
+::selection {
+  background: inherit;
+}
